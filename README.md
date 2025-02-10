@@ -1,4 +1,4 @@
-# VLM
+# Vision-Language Models (VLMs)
 VLM for autonomous driving
 
 ## Papers
