@@ -84,6 +84,15 @@ Application: Training autonomous vehicles in simulated environments with natural
 10. Explainable AI for Autonomous Driving
 Paper: "Explainable AI for Autonomous Driving Using Vision-Language Models" (Recent work, 2023)
 
+### Key Trends in VLM Research for Autonomous Driving:
+Multimodal Fusion: Combining vision, language, and sensor data for better perception and decision-making.
+
+Open-Vocabulary Understanding: Enabling models to understand and describe novel objects or scenarios not seen during training.
+
+Explainability: Using natural language to make autonomous driving systems more interpretable and trustworthy.
+
+Synthetic Data Generation: Leveraging VLMs to generate realistic training data for rare or complex driving scenarios.
+
 Impact: This work focuses on using VLMs to provide explanations for autonomous driving decisions, improving transparency and trust.
 
 Application: Generating natural language explanations for why an autonomous vehicle made a specific decision, such as braking or changing lanes.
