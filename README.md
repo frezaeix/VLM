@@ -14,7 +14,7 @@ VLM for autonomous driving
 * Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving [2024]
 
 
-## Important papers for VLM and Autonomous Driving
+## Important papers for VLM and Autonomous Driving (DeepSeek)
 
 Vision-Language Models (VLMs) have gained significant attention in the field of autonomous driving due to their ability to integrate visual and textual information, enabling better understanding and decision-making in complex environments. Here are some of the most impactful papers and research directions in this area:
 
