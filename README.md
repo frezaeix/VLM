@@ -96,3 +96,8 @@ Synthetic Data Generation: Leveraging VLMs to generate realistic training data f
 Impact: This work focuses on using VLMs to provide explanations for autonomous driving decisions, improving transparency and trust.
 
 Application: Generating natural language explanations for why an autonomous vehicle made a specific decision, such as braking or changing lanes.
+
+## Useful githubs
+
+* https://github.com/Thinklab-SJTU/Awesome-LLM4AD
+* https://github.com/ge25nab/Awesome-VLM-AD-ITS
