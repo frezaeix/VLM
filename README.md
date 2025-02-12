@@ -18,7 +18,7 @@ VLM for autonomous driving
 
 * https://github.com/Thinklab-SJTU/Awesome-LLM4AD
 * https://github.com/ge25nab/Awesome-VLM-AD-ITS
-* 
+
 
 ## Important papers for VLM and Autonomous Driving
 
