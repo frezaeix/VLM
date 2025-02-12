@@ -14,6 +14,12 @@ VLM for autonomous driving
 * Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving [2024]
 
 
+## Useful githubs
+
+* https://github.com/Thinklab-SJTU/Awesome-LLM4AD
+* https://github.com/ge25nab/Awesome-VLM-AD-ITS
+* 
+
 ## Important papers for VLM and Autonomous Driving
 
 Vision-Language Models (VLMs) have gained significant attention in the field of autonomous driving due to their ability to integrate visual and textual information, enabling better understanding and decision-making in complex environments. Here are some of the most impactful papers and research directions in this area:
@@ -97,7 +103,4 @@ Impact: This work focuses on using VLMs to provide explanations for autonomous d
 
 Application: Generating natural language explanations for why an autonomous vehicle made a specific decision, such as braking or changing lanes.
 
-## Useful githubs
 
-* https://github.com/Thinklab-SJTU/Awesome-LLM4AD
-* https://github.com/ge25nab/Awesome-VLM-AD-ITS
