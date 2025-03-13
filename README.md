@@ -1,6 +1,11 @@
 # Vision-Language Models (VLMs)
 VLM for autonomous driving
 
+## Must read pages
+
+* https://huggingface.co/blog/vlms
+
+
 ## Papers
 
 * VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision [2024]
