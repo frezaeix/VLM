@@ -18,6 +18,7 @@ VLM for autonomous driving
 
 * Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving [2024]
 
+* OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving [2025]
 
 ## Useful githubs
 
